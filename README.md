@@ -1,0 +1,2 @@
+# posicionamiento
+Guión para repaso
